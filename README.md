@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterhlin&label=Profile%20views&color=0e75b6&style=flat" alt="peterhlin" /> </p>
 
- 🔭 I’m currently working on **web scraping and automation applications**
+ <h2>💻 I'm Currently workng on</h2>
+
+- Webscraping and automation applications
+- Software Engineering
+
 
 <p align="left">
 </p>
