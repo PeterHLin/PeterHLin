@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate backend developer from New York City</h3>
 
+[![wakatime](https://wakatime.com/badge/user/235c229e-ab6f-4562-bc32-396b0d772b19/project/8ec5bda8-a0c8-486b-8b1f-a6d68446e21c.svg)](https://wakatime.com/badge/user/235c229e-ab6f-4562-bc32-396b0d772b19/project/8ec5bda8-a0c8-486b-8b1f-a6d68446e21c)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterhlin&label=Profile%20views&color=0e75b6&style=flat" alt="peterhlin" /> </p>
 
  <h2>💻 I'm currently working on</h2>
